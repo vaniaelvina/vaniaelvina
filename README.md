@@ -18,6 +18,3 @@
 ![vaniaelvina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniaelvina&theme=synthwave&show_icons=true&hide_border=true&layout=compact) <br>
 ![vaniaelvina's Stats](https://github-readme-stats.vercel.app/api?username=vaniaelvina&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 ![vaniaelvina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaniaelvina&theme=synthwave&hide_border=true)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/vaniaelvina"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vaniaelvina" /></a></p><br><br><br>
