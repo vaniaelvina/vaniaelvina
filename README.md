@@ -11,9 +11,9 @@
 <a href="https://instagram.com/vaniaelvina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaniaelvina" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vania elvina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vania elvina" height="30" width="40" /></a>
 <a href="https://twitter.com/niavinaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niavinaa" height="30" width="40" /></a>
-</p>
+</p><br>
 
 
-![vaniaelvina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniaelvina&theme=synthwave&show_icons=true&hide_border=true&layout=compact) <br>
-![vaniaelvina's Stats](https://github-readme-stats.vercel.app/api?username=vaniaelvina&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![vaniaelvina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaniaelvina&theme=synthwave&hide_border=true)
+![vaniaelvina's Stats](https://github-readme-stats.vercel.app/api?username=vaniaelvina&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![vaniaelvina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaniaelvina&theme=material-palenight&hide_border=true)
+![vaniaelvina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniaelvina&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
