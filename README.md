@@ -1,4 +1,4 @@
-<h1 align="left">👋Hi, i'm Vania!</h1>
+<h1 align="left">👋 Hi, i'm Vania!</h1>
 👩🏻‍💻 Data Analyst sharing about my learning journey</br>
 🎓 Studied Mathematics at Diponegoro University, Indonesia</br>
 🌱 I’m currently learning Data Science and Machine Learning</br>
