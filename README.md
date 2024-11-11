@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vania</h1>
-<h3 align="center">I love working with data!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaniaelvina&label=Profile%20views&color=0e75b6&style=flat" alt="vaniaelvina" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaniaelvina" alt="vaniaelvina" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 💬 Ask me about **data visualization**
-
-- 📫 How to reach me **vaniaelvinaa@gmail.com**
-
-- ⚡ Fun fact **i know how to do split!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h1 align="left">👋Hi, i'm Vania!</h1>
+<h3 align="left">I love working with data!</h3>
+👩🏻‍💻 Data Analyst sharing about my learning journey</br>
+🎓 Studied Mathematics at Diponegoro University, Indonesia</br>
+🌱 I’m currently learning Data Science and Machine Learning</br>
+💬 Ask me about data visualization!</br>
+📫 How to reach me vaniaelvinaa@gmail.com</br>
+⚡ Fun fact i know how to do a split!</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
