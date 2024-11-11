@@ -14,6 +14,7 @@
 </p><br>
 
 
+![vaniaelvina's Top Lranguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniaelvina&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)<br>
 ![vaniaelvina's Stats](https://github-readme-stats.vercel.app/api?username=vaniaelvina&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![vaniaelvina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaniaelvina&theme=material-palenight&hide_border=true)
-![vaniaelvina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniaelvina&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
