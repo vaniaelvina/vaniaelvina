@@ -2,8 +2,6 @@
 👩🏻‍💻 Data Analyst sharing about my learning journey</br>
 🎓 Studied Mathematics at Diponegoro University, Indonesia</br>
 🌱 I’m currently learning Data Science and Machine Learning</br>
-💬 Ask me about data visualization!</br>
-📫 How to reach me: vaniaelvinaa@gmail.com</br>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
