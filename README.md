@@ -11,4 +11,6 @@
 <a href="https://twitter.com/niavinaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niavinaa" height="30" width="40" /></a>
 </p><br>
 
+![image](https://github.com/user-attachments/assets/8d4cc162-3045-4dce-871b-aaa22a40d5d6)
+![image](https://github.com/user-attachments/assets/f09f9bb4-9315-44d6-bda9-ac0fff7064c7)
 
